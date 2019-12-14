@@ -1,0 +1,15 @@
+{
+  "name": "elm-bootstrap",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Louis Lebrault <louis.lebrault@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "elm-hot": "^1.1.4",
+    "node-elm-compiler": "^5.0.4",
+    "parcel": "^1.12.4"
+  },
+  "scripts": {
+    "start": "parcel ./index.html"
+  }
+}
